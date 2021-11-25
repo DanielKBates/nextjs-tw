@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test {
+  color: red;
+}
+
+.boa-bg {
+  background-image: url("/images/boa.jpg")
+}
+
+.cfc-logo {
+  background-image: url("/images/cfc.jpg");
+}
+
+.cfc-clt {
+  background-image: url("/images/cfc-clt.jpg");
+}
